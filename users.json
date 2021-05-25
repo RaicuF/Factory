@@ -1,0 +1,36 @@
+{
+    "fraicu": {
+        "password": "123",
+        "name": "Raicu",
+        "last name": "Florin",
+        "position": "manager",
+        "CNP": 126721832832,
+        "phone number": "0766232123",
+        "city": "Milton Keynes",
+        "skills": [
+            "F",
+            "S",
+            "E"
+        ]
+    },
+    "pboulean": {
+        "password": "123",
+        "name": "Boulean",
+        "last name": "Petronela",
+        "position": "operator",
+        "CNP": 193123712381,
+        "phone number": "0865232732",
+        "city": "Milton Keynes",
+        "skills": []
+    },
+    "mboulean": {
+        "password": "123",
+        "name": "Boulean",
+        "last name": "Mark",
+        "position": "Administrator",
+        "CNP": 195213123132,
+        "phone number": "0764642823",
+        "city": "Milton Keynes",
+        "skills": []
+    }
+}
